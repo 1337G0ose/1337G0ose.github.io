@@ -127,6 +127,7 @@ ol, ul {
 }
 
 .welcome-content-button{
+    color: #000000;
     box-sizing: border-box;
     background: #EDF2EC;
     border: 2px solid #E06733;
@@ -408,6 +409,7 @@ ol, ul {
     height: 166px;
 }
 .button-price-info{
+    color: #000000;
     box-sizing: border-box;
     background:white;
     border: 2px solid #E06733;
